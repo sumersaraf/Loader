@@ -1,0 +1,20 @@
+.clp-progress-circle {
+  width: 55px;
+  height: 85px;
+  z-index: 450;
+  left: 1250px;
+  top: 0px;
+  position: fixed;
+  color: #333;
+  text-align: center;
+  
+  .loader-totalitems {
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    font-size: 14px;    
+  }
+  .totalitems-label{
+    font-size: 10px;    
+ }
+}
